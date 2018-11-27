@@ -105,9 +105,8 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\FormularioVista.cshtml" />
     <Content Include="Views\Home\CargaDatos.cshtml" />
-    <Content Include="Views\Home\ListadoVisitas.cshtml" />
+    <Content Include="Views\Home\FormularioVisita.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
